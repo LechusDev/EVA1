@@ -1,2 +1,0 @@
-eva1_4_clase_auto.Automovil
-eva1_4_clase_auto.EVA1_4_CLASE_AUTO
