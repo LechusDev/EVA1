@@ -9,4 +9,6 @@
  */
 public interface Mensajes {
     
+    public void mostrarMensaje(String mensaje);
+    
 }
